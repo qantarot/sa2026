@@ -7,7 +7,7 @@ iconclr: '#428bca'
 titleclr: '#428bca'
 ---
 
-<center><img src="https://github.com/mrathon/sa2026/blob/master/img/Stellenbosch_logo.png?raw=true" style="height:300px;"></center>
+<center><img src="img/Stellenbosch_logo.png" style="height:300px;"></center>
 
 
 
